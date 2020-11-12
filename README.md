@@ -11,7 +11,7 @@ This exercise it to utilize javascript to create table searches
 
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
-### UFO-level-2  Multiple Search Categories 
+### OPTIONAL** UFO-level-2  Multiple Search Categories 
 
 * Complete all of Level 1 criteria.
 
